@@ -1,0 +1,101 @@
+.input {
+position: absolute;
+width: 500px;
+height: 50px;
+left: 84px;
+top: 51px;
+
+background: #FFFFFF;
+border: 1px solid #C4B6B6;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.button{
+
+position: absolute;
+width: 200px;
+height: 50px;
+left: 629px;
+top: 51px;
+
+background: #BFBFBF;
+border-radius: 10px;
+}
+.box{
+position: absolute;
+width: 1073px;
+height: 401px;
+left: 84px;
+top: 136px;
+
+background: #DFDFDF;
+border-radius: 25px;
+}
+.cidade{
+position: absolute;
+width: 350px;
+height: 45px;
+left: 105px;
+top: 197px;
+
+background: #FFFFFF;
+border: 1px solid #289B00;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.bairro{
+position: absolute;
+width: 115px;
+height: 24px;
+left: 681px;
+top: 207px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #6C6C6C;
+}
+.endereco{
+
+position: absolute;
+width: 350px;
+height: 45px;
+left: 105px;
+top: 324px;
+
+background: #FFFFFF;
+border: 1px solid #289B00;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.uf{
+position: absolute;
+width: 60px;
+height: 24px;
+left: 681px;
+top: 346px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #6C6C6C;
+
+}
+.complemento{
+position: absolute;
+width: 350px;
+height: 45px;
+left: 105px;
+top: 450px;
+
+background: #FFFFFF;
+border: 1px solid #289B00;
+box-sizing: border-box;
+border-radius: 10px;
+}
